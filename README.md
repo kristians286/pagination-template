@@ -1,3 +1,1 @@
-# pagination-template
-
-# Feel free to use it  
+# pagination-template for JAVA Spring Boot
